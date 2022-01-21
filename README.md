@@ -1,6 +1,6 @@
 # Employee-Manager-System
 
-**Basic on the vedio idea (https://www.bilibili.com/video/BV1et411b73Z?p=166) to finish a simple employee manager system.**
+**Basic on the [vedio idea](https://www.bilibili.com/video/BV1et411b73Z?p=166) to finish a simple employee manager system.**
 
 Basic Functions:
 
