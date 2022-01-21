@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1642453517 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\manager.cpp
+	"manager.h"
+
+1642453506 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\manager.h
+	<iostream>
+	"worker.h"
+
+1642476710 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\main.cpp
+	<iostream>
+	<string>
+	"System.h"
+	"employee.h"
+	"manager.h"
+	"worker.h"
+	"boss.h"
+
+1642477550 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\system.h
+	<iostream>
+	<string>
+	"worker.h"
+
+1642449407 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\employee.h
+	<iostream>
+	"worker.h"
+
+1642453428 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\worker.h
+	<iostream>
+	<string>
+
+1642453380 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\boss.h
+	<iostream>
+	"worker.h"
+
+1642453707 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\system.cpp
+	"System.h"
+
+1642453533 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\employee.cpp
+	"employee.h"
+
+1642453525 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\employee manage system\managersystem\boss.cpp
+	"boss.h"
+
+1642711072 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\boss.cpp
+	"boss.h"
+
+1642453380 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\boss.h
+	<iostream>
+	"worker.h"
+
+1642453428 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\worker.h
+	<iostream>
+	<string>
+
+1642711079 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\employee.cpp
+	"employee.h"
+
+1642449407 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\employee.h
+	<iostream>
+	"worker.h"
+
+1642723576 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\main.cpp
+	<iostream>
+	<string>
+	"System.h"
+	"employee.h"
+	"manager.h"
+	"worker.h"
+	"boss.h"
+
+1642724404 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\system.h
+	<iostream>
+	<string>
+	<fstream>
+	"worker.h"
+
+1642453506 c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\manager.h
+	<iostream>
+	"worker.h"
+
+1642711065 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\manager.cpp
+	"manager.h"
+
+1642724802 source:c:\users\vtnsk\desktop\note\courses\6 - winter 2022 (4\c++\project\managersystem\system.cpp
+	"System.h"
+	"worker.h"
+	"boss.h"
+	"manager.h"
+	"employee.h"
+
